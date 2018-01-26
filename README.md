@@ -1,4 +1,4 @@
-<img src="https://github.com/utkarshmttl/whatsapp-ImagePicker/blob/master/screen_shot.jpg?raw=true" align="right" width ="150px" height ="auto"/>  
+<img src="https://github.com/utkarshmttl/whatsapp-ImagePicker/blob/master/screen_shot.jpg?raw=true" align="right" width ="180px" height ="auto"/>  
 
 # Whatsapp ImagePicker  
 Whatsapp application's inbuilt camera has a full-length band to scroll through user media while displaying a simplistic design for using the camera.  
