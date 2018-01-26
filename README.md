@@ -8,7 +8,7 @@ Android app developers can use this repository as a library to integrate such a 
   
 # Usage
 
-Surround your EditText by a MaterialTextField
+Add the following code in your layout.xml
 
 ```xml
 <com.github.utkarshmttl.whatsappIimagePicker.imagepicker
